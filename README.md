@@ -1,12 +1,9 @@
-# [Start Bootstrap - Business Casual](https://startbootstrap.com/template-overviews/business-casual/)
+# [Bottom Time Dive Service](http://BTDive.com/)
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+[Bottom Time Dive Service](http://BTDive.com/) is a multipurpose website for my dive business. 
 
-## Preview
 
-[![Business Casual Preview](https://startbootstrap.com/assets/img/templates/business-casual.jpg)](https://blackrockdigital.github.io/startbootstrap-business-casual/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-casual/)**
+**[View Live Preview](http://BTDive.com/)**
 
 ## Status
 
